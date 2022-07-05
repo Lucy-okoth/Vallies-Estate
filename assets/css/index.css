@@ -1,0 +1,246 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    font-size: 50px;
+
+}
+body{
+    padding: 30px;
+}
+.home{
+    display: inline;
+    margin-right: 20px;
+    font-family: 'Oleo Script Swash Caps';
+}
+.scrollmenu{
+font-size: 40px;
+padding-top: 20px;
+    height:100px;
+    width: 100%;
+    border-bottom: 2px solid lightgrey;
+    
+}
+.scroll_a{
+    float:right;
+    display: flex;
+
+}
+.scrollmenu a{
+
+    margin-right: 100px;
+
+}
+#home{
+    color: blue;
+    padding: 10px;
+  
+}
+#rent{
+    padding: 10px;   
+
+}
+#land{
+    color: black;
+    padding: 10px;   
+}
+#agent{     color: black;
+    padding: 10px;   
+}
+#contactus{
+    color: black;
+    padding: 10px;  
+}
+.getstarted{
+    background-color: #0F298B;
+    color: white;
+}
+body{
+    background-color: #FAFAFA;
+    
+}
+.header{
+    border-radius: 1px;
+    border-style: groove;
+    border-width: 1px;
+    border-top: hidden;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}.house{
+    height: 700px;
+    font-size: 60px;
+    padding: 20px;
+}
+.house h1{
+    color: blue;
+    font-size: 100px;
+}
+
+.house img{ 
+    height:700px;
+    width:700px;
+    float:right ;
+    
+}
+#myBtn{
+    background-color: blue;
+    float: right;
+    border-radius: 20px;
+    color: white;
+    height: 100px;
+    padding: 20px;
+}
+#icon{
+    height: 30px;
+    width: 20px;
+}   
+.iconz{
+    display: flex;
+    height: 100px;
+    align-items: center;
+}
+.v-icon{
+    border-radius:50%; 
+    background-color:#0f298b; 
+    height:40px;
+     width:40px; 
+    display:flex;
+    align-items:center;
+    justify-content: center; 
+    color:white; 
+    margin-left:4rem;
+}
+
+.topnav{
+    text-align: center;
+    background-color: white;
+    display: flex;
+    height: 200px;
+    width: 50%;
+    margin: auto;
+    border-radius: 15px;
+   
+
+}
+.Search{
+    font-size: 30px;
+    color: grey;
+    margin: 30px;
+  
+}
+.navl{
+    margin: 20px;
+}
+.navp{
+    margin: 20px;
+}
+.navm{
+    margin: 20px;
+}
+.products {
+    margin: 40px;
+    
+}
+.products h1{
+    color: #2549D3;
+    
+}
+.works{
+    text-align: center;
+}
+
+.loca{
+display: flex;
+margin: auto;
+padding: 20px;
+text-align: center;
+}
+.pin{
+    background-color:white;
+    width: 500px;
+    margin:20px;
+}
+.pin img{
+    height: 100px;
+    width: 60px;
+}
+.payment{
+    background-color: white;
+    margin:20px;
+}
+.lock{
+    background-color: white;
+    margin:20px;
+}
+.why{
+    height:500px;
+    width:100%;
+    margin: auto;
+}
+.choose1 img{
+    height: 500px;
+    width: 500px;
+    float: left;
+}
+.choose{
+float: right;
+
+}
+.our{
+    text-align: center;
+    margin: 50px 20px 30px 30px;
+}
+.our h2{
+    color: #2549D3 ;
+}
+.customers{
+    display: flex;
+    padding: 20px;
+}
+.customer1{
+    margin: 20px ;
+    background-color: white;
+}
+.customer2{
+    background-color: white;
+    margin: 20px ;
+}
+.customer3{
+    background-color: white;
+    margin: 20px ;
+}
+.footer{
+    background-color: #0F298B;
+    padding: 20px;
+    color: white;
+}
+.val{
+    float:left;
+    margin: 10px;
+}
+.val h2{
+    font-family: 'Oleo Script Swash Caps';
+}
+.property{
+    float: left;
+    margin: 10px;
+}
+.about{
+    float: left;
+}
+.aft{
+text-align: center;
+}
+.aft h2{
+    color: #2549D3;
+}
+.rir{
+
+margin: 100px;
+}
+.all{
+    margin:100px;
+}
