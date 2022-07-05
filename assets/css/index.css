@@ -153,29 +153,8 @@ nav{
     text-align: center;
 }
 
-.loca{
-display: flex;
-margin: auto;
-padding: 20px;
-text-align: center;
-}
-.pin{
-    background-color:white;
-    width: 500px;
-    margin:20px;
-}
-.pin img{
-    height: 100px;
-    width: 60px;
-}
-.payment{
-    background-color: white;
-    margin:20px;
-}
-.lock{
-    background-color: white;
-    margin:20px;
-}
+
+
 .why{
     height:500px;
     width:100%;
