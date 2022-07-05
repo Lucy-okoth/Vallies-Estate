@@ -10,3 +10,8 @@ This the Vallie's Website and show the ...
 # Licence
 Copyright (c)[2019][Lucy Okoth]
 Permission is hereby granted.
+# author
+Lucy Okoth
+
+
+Website Link: # https://lucy-okoth.github.io/Vallies-Estate/
