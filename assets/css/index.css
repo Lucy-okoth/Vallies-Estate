@@ -56,6 +56,10 @@ padding-top: 20px;
     color: white;
 }
 
+body{
+    background-color: #FAFAFA;
+    
+}
 .header{
     border-radius: 1px;
     border-style: groove;
