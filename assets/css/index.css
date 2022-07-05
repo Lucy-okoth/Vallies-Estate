@@ -86,7 +86,14 @@ nav{
     float:right ;
     
 }
-
+#myBtn{
+    background-color: blue;
+    float: right;
+    border-radius: 20px;
+    color: white;
+    height: 100px;
+    margin: 20px;
+}
 #icon{
     height: 30px;
     width: 20px;
