@@ -9,4 +9,4 @@ This the Vallie's Website and show the ...
 
 # Licence
 Copyright (c)[2019][Lucy Okoth]
-Permission is hereby granted
+Permission is hereby granted.
