@@ -91,7 +91,7 @@ nav{
     border-radius: 20px;
     color: white;
     height: 100px;
-    padding: 20px;
+    margin: 20px;
 }
 #icon{
     height: 30px;
@@ -190,6 +190,7 @@ float: right;
 
 }
 .our{
+    padding-top: 30px;
     text-align: center;
     margin: 50px 20px 30px 30px;
 }
